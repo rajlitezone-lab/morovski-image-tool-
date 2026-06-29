@@ -1,0 +1,25 @@
+UPLOAD STEPS
+
+1. Create new GitHub repository:
+   morovski-image-packaging-generator
+
+2. Extract this ZIP.
+
+3. Upload these to GitHub:
+   - app folder
+   - public folder
+   - package.json
+   - next.config.mjs
+   - vercel.json
+   - README.md
+
+4. Commit changes.
+
+5. Open Vercel and import the repository.
+
+6. Add Environment Variable:
+   OPENAI_API_KEY = your OpenAI key
+
+7. Deploy.
+
+8. Test one product first.
